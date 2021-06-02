@@ -1,0 +1,25 @@
+h1 {
+color: red;
+}
+
+span {
+color: red;}
+
+li {
+	border: 2px solid ;
+}
+
+h2 {
+	color: white;
+	background: green;
+}
+
+.blue {
+	color: white;
+	background: blue;
+	width: 100px ;
+}
+
+.padding {
+	padding: 25px;
+}
